@@ -1,7 +1,7 @@
 # Weather App
 <br>
 
-![Project Image](project-image-'./images/landing page.png')
+<img src="./images/landing page.png" alt="java" width="700" height="400" align="left"/>
 
 
 
@@ -35,7 +35,8 @@ https://devikavarshney.github.io/Weather-App/
 
 - Search for a place's Weather
 <br><br>
-![Project Image]('./images/on searching.png')
+
+<img src="./images/on searching.png" alt="java" width="700" height="400" align="left"/>
 
 ---
 
