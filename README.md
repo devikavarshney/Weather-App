@@ -1,7 +1,7 @@
 # Weather App
 <br>
 
-![Project Image]('./images/landing page.png')
+![Project Image](project-image-'./images/landing page.png')
 
 
 
