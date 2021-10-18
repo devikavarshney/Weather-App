@@ -1,7 +1,7 @@
 # Weather App
 <br>
 
-<img src="./images/landing page.png" alt="java" width="1000" height="400" align="left" style="margin-bottom:50px"/>
+<img src="./images/landing page.png" alt="java" width="1000" height="400" align="left" />
 
 
 ---
@@ -37,7 +37,7 @@ https://devikavarshney.github.io/Weather-App/
 - Search for a place's Weather
 <br><br>
 
-<img src="./images/on searching.png" alt="java" width="1000" height="400" align="left" style="margin-bottom:50px"/>
+<img src="./images/on searching.png" alt="java" width="1000" height="400" align="left" style="padding-bottom:50px"/>
 
 
 ---
