@@ -1,8 +1,8 @@
 # Weather App
 <br>
 
-<img src="./images/landing page.png" alt="java" width="700" height="400" align="left"/>
-
+<img src="./images/landing page.png" alt="java" width="1000" height="600" align="left"/>
+<br><br>
 
 
 ### Table of Contents
@@ -36,8 +36,8 @@ https://devikavarshney.github.io/Weather-App/
 - Search for a place's Weather
 <br><br>
 
-<img src="./images/on searching.png" alt="java" width="700" height="400" align="left"/>
-
+<img src="./images/on searching.png" alt="java" width="1000" height="600" align="left"/>
+<br><br>
 ---
 
 ## References
