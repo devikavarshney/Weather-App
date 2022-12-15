@@ -42,13 +42,6 @@ https://devikavarshney.github.io/Weather-App/
 
 ---
 
-## References
-- Youtube video 
-https://www.youtube.com/watch?v=WZNG8UomjSI
-
-
----
-
 ## Author Info
 
 - Twitter - [@devika0003_](https://twitter.com/devika0003_)
